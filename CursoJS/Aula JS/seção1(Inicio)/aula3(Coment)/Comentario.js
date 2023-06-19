@@ -1,0 +1,9 @@
+//Comentario
+console.log("Comentario");//teste
+console.log("Comentario2");
+/*comentario
+a
+b
+c
+*/
+console.log("Comentario3");
